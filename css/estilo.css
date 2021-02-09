@@ -1,3 +1,13 @@
-*{
+body{
   background: coral;
+}
+.main{
+  width: 70%;
+  margin: 20px auto;
+  border: 1px solid blue;
+  padding: 20px;
+  background-color: sienna;
+}
+h2{
+  margin-top: 20px;
 }
