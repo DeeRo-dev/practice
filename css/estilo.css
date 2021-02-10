@@ -11,11 +11,16 @@ body{
 }
 h2{
   margin-top: 20px;
+  color: aqua;
 }
 .cabezera{
-  background-color: teal;
+  background-color: rgb(62, 128, 0);
+  color: antiquewhite;
   padding: 20px;
   margin-bottom: 20px;
   font-size:30px;
   box-shadow: 0px 10px 10px gray;
+}
+h3{
+  color: crimson;
 }
