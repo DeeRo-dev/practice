@@ -3,17 +3,19 @@ body{
   font-size: italic;
 }
 .main{
-  width: 70%;
+  width: 90%;
   margin: 20px auto;
   border: 1px solid blue;
   padding: 20px;
-  background-color: sienna;
+  background-color: rgb(160, 45, 99);
 }
 h2{
   margin-top: 20px;
+  color: blue;
 }
 .cabezera{
-  background-color: teal;
+  background-color: rgb(128, 87, 0);
+  color: #fff;
   padding: 20px;
   margin-bottom: 20px;
   font-size:30px;
