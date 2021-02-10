@@ -1,5 +1,6 @@
 body{
-  background: coral;
+  background: rgb(246, 246, 246);
+  font-size: italic;
 }
 .main{
   width: 70%;
