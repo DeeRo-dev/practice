@@ -3,11 +3,11 @@ body{
   font-size: italic;
 }
 .main{
-  width: 70%;
+  width: 80%;
   margin: 20px auto;
   border: 1px solid blue;
   padding: 20px;
-  background-color: sienna;
+  background-color: rgb(160, 45, 99);
 }
 h2{
   margin-top: 20px;
